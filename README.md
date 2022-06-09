@@ -2,7 +2,7 @@
 
 ### Organisms
 - Trypanosoma brucei brucei TREU927
-- Trypanosoma cruzi strain CL Brener
+- Trypanosoma equiperdum
 - Trypanosoma rangeli
 - Trypanosoma grayi
 - Trypanosoma conorhini
